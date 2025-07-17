@@ -1,3 +1,19 @@
+# 📝 Personal Tracker
+
+The **Personal Tracker** app is a lightweight and intuitive mobile tool built to help you keep track of your daily activities, tasks, goals, and personal progress — all offline. Whether you want to monitor habits, daily routines, or notes, this app provides a simple and secure way to manage everything in one place.
+
+---
+
+## 🚀 Features
+
+- ✅ **Offline First** – Works fully without internet.
+- 📅 **Daily & Weekly Tracking** – Log and review your day easily.
+- 📌 **Custom Notes** – Add short notes or highlights for any day.
+- 📊 **Progress Overview** – Visual insights into your habits.
+- 🔐 **Local Storage** – All your data stays securely on your device.
+- 🎨 **Clean UI** – Designed for simplicity and speed.
+
+---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/688a7dcb-0406-4572-9a1a-5280f54b5fde" width="30%" />
   <img src="https://github.com/user-attachments/assets/a48808be-be32-4b04-9e97-5596edaad7e7" width="30%" />
